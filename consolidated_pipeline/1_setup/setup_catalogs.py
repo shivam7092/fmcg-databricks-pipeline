@@ -1,0 +1,17 @@
+# Databricks notebook source
+# MAGIC %sql
+# MAGIC
+# MAGIC CREATE CATALOG IF NOT EXISTS FMCG;
+# MAGIC
+# MAGIC USE CATALOG FMCG;
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC
+# MAGIC CREATE SCHEMA IF NOT EXISTS fmcg.gold;
+# MAGIC CREATE SCHEMA IF NOT EXISTS fmcg.silver;
+# MAGIC CREATE SCHEMA IF NOT EXISTS fmcg.bronze;
+
+# COMMAND ----------
+
