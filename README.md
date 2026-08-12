@@ -196,6 +196,9 @@ Each Bronze row captures `_metadata.file_name`, `_metadata.file_size`, and `read
 ### Dashboard
 ![Dashboard](consolidated_pipeline/Screenshots/05_dashboard.png)
 
+### Pipeline Workflow
+![Pipeline Workflow](consolidated_pipeline/Screenshots/06_pipeline_workflow.png)
+
 ---
 
 ## How to Run
