@@ -182,19 +182,19 @@ Each Bronze row captures `_metadata.file_name`, `_metadata.file_size`, and `read
 ## Screenshots
 
 ### Unity Catalog
-![Unity Catalog](screenshots/01_unity_catalog.png)
+![Unity Catalog](Screenshots/01_unity_catalog.png)
 
 ### Gold View Output
-![Gold View](screenshots/02_gold_view_output.png)
+![Gold View](Screenshots/02_gold_view_output.png)
 
 ### Delta Table History
-![Delta History](screenshots/03_delta_history.png)
+![Delta History](Screenshots/03_delta_history.png)
 
 ### Bronze Lineage
-![Bronze Lineage](screenshots/04_bronze_lineage.png)
+![Bronze Lineage](Screenshots/04_bronze_lineage.png)
 
 ### Dashboard
-![Dashboard](screenshots/05_dashboard.png)
+![Dashboard](Screenshots/05_dashboard.png)
 
 ---
 
