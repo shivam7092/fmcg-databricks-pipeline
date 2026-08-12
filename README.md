@@ -181,11 +181,20 @@ Each Bronze row captures `_metadata.file_name`, `_metadata.file_size`, and `read
 
 ## Screenshots
 
-> See `/screenshots` folder for:
-> - Unity Catalog schema and tables
-> - Databricks Workflows pipeline DAG
-> - Delta table history and time travel
-> - BI view output and Genie dashboard
+### Unity Catalog
+![Unity Catalog](screenshots/01_unity_catalog.png)
+
+### Gold View Output
+![Gold View](screenshots/02_gold_view_output.png)
+
+### Delta Table History
+![Delta History](screenshots/03_delta_history.png)
+
+### Bronze Lineage
+![Bronze Lineage](screenshots/04_bronze_lineage.png)
+
+### Dashboard
+![Dashboard](screenshots/05_dashboard.png)
 
 ---
 
