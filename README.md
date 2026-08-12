@@ -182,7 +182,7 @@ Each Bronze row captures `_metadata.file_name`, `_metadata.file_size`, and `read
 ## Screenshots
 
 ### Unity Catalog
-![Unity Catalog](Screenshots/01_unitycatalog-fmcg.png)
+![Unity Catalog](consolidated_pipeline/Screenshots/01_unitycatalog-fmcg.png)
 
 ### Gold View Output
 ![Gold View](Screenshots/02_gold_view_output.png)
